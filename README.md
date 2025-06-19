@@ -1,6 +1,9 @@
-# first_app
+This is My first Flutter app I build to learn the Core Concepts of Flutter
 
-A new Flutter project.
+This Flutter application is Dice Roller in which a Random Dice face will be Genarated when you press the RollDice Button
+
+In This Application I used Libraries for :
+To Generate a Random Number or Value for showing the Dice with a completely random face
 
 ## Getting Started
 
